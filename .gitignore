@@ -1,0 +1,19 @@
+build/
+.dart_tool/
+*.env
+env/*.json
+android/key.properties
+**/env/*.json
+**/android/key.properties
+.env.*
+*.jks
+*.keystore
+.codex-*
+screenshots/
+
+# gen-l10n output is rebuilt from the ARB sources by Flutter.
+rider_app/lib/l10n/app_localizations*.dart
+
+# Third-party study files (never ship) and local tool settings.
+reference/
+.claude/

@@ -1,0 +1,163 @@
+{
+  "@@locale": "mn",
+  "appTitle": "MGLS",
+  "demoModeNotice": "Туршилтын горим — бодит захиалга үүсэхгүй.",
+  "serverFareNotice": "Үнийг такси компанийн үйлчилгээнээс авч байна.",
+  "backendUnavailable": "Үйлчилгээтэй холбогдох боломжгүй байна.",
+  "loadingFare": "Үнийг тооцоолж байна…",
+  "fareUnavailable": "Үнийг авах боломжгүй байна",
+  "fareRetryHint": "Интернэт холболтоо шалгах эсвэл дараа дахин оролдоно уу. Захиалга үүсээгүй.",
+  "companyLabel": "Такси компани",
+  "liveQuoteNotice": "Үнийг урьдчилан харах боломжтой. Захиалга одоогоор боломжгүй.",
+  "placesSyncPending": "Энэ төхөөрөмжид хадгалсан. Мэдээлэл илгээгдэж дуусаагүй тул холболттой үед дахин оролдоно уу.",
+  "placesSyncReady": "Таны хадгалсан газрууд болон тайлангууд илгээгдсэн.",
+  "syncPlaces": "Хадгалсан газрууд болон тайланг илгээх",
+  "searchPlaces": "Газар хайх",
+  "searchPickup": "Суух газраа хайх",
+  "searchDropoff": "Очих газраа хайх",
+  "clearSearch": "Хайлтыг арилгах",
+  "savedPlaces": "Хадгалсан газрууд",
+  "recentPlaces": "Сүүлд сонгосон газрууд",
+  "onlinePlaces": "Онлайн хайлтын үр дүн",
+  "home": "Гэр",
+  "work": "Ажил",
+  "notSet": "Газар сонгох",
+  "editHome": "Гэрийн байршлыг тохируулах",
+  "editWork": "Ажлын байршлыг тохируулах",
+  "chooseHome": "Гэрийн байршлаа сонгоно уу",
+  "chooseWork": "Ажлын байршлаа сонгоно уу",
+  "cancel": "Болих",
+  "retry": "Дахин оролдох",
+  "setOnMap": "Газрын зураг дээр сонгох",
+  "noRecentPlaces": "Таны сонгосон газрууд энд харагдана.",
+  "noLocalPlaces": "Түгээмэл болон сүүлд сонгосон газруудаас олдсонгүй. Өөр нэрээр хайх эсвэл газрын зураг дээр сонгоно уу.",
+  "offlinePlacesNotice": "Офлайн хайлт: түгээмэл, хадгалсан, сүүлд сонгосон газруудыг ашиглах боломжтой.",
+  "devGeocoderNotice": "Зөвхөн туршилтад: онлайн хайлт Nominatim ашиглана. Онлайн хайх товчийг дарж хайлтаа илгээнэ үү. Хувийн мэдээлэл бүү оруулаарай.",
+  "searchOnline": "Онлайн хайх",
+  "searchingPlaces": "Газар хайж байна…",
+  "geocoderError": "Онлайн хайлт боломжгүй байна. Дахин оролдох эсвэл офлайн газрууд, газрын зургийг ашиглана уу.",
+  "noOnlinePlaces": "Эрдэнэтээс тохирох газар олдсонгүй.",
+  "placeStorageError": "Энэ төхөөрөмжөөс газруудыг унших эсвэл хадгалах боломжгүй байна. Дахин оролдоно уу. Өмнөх мэдээлэл хэвээр үлдэнэ.",
+  "locationWrong": "Байршил буруу байна уу?",
+  "reportDetails": "Юуг засах шаардлагатай вэ?",
+  "reportLocalNotice": "Тайлан энэ төхөөрөмжид хадгалагдана. Нэвтэрсэн хэрэглэгч холболттой үед MGLS-д илгээх боломжтой.",
+  "saveReport": "Тайлан хадгалах",
+  "reportStored": "Тайлан энэ төхөөрөмжид хадгалагдлаа.",
+  "mapPinName": "Газрын зураг дээрх цэг",
+  "erdenetArea": "Эрдэнэт, Баян-Өндөр",
+  "osmAttribution": "Газрын мэдээлэл © OpenStreetMap-ийн хувь нэмэр оруулагчид · ODbL",
+  "erdenetPolytechnicName": "Эрдэнэт политехник коллеж",
+  "erdenetPolytechnicArea": "Есөн Эрдэнэ захын орчим, Баян-Өндөр",
+  "emodinHospitalName": "Эмодин эмнэлэг",
+  "emodinHospitalArea": "Нацагдоржийн гудамж, Баян-Өндөр",
+  "administrationBuildingName": "Захиргааны байр",
+  "administrationBuildingArea": "ШУТИС-ийн орчим, Баян-Өндөр",
+  "yesonErdeneMarketName": "Есөн Эрдэнэ зах",
+  "yesonErdeneMarketArea": "Политехник коллежийн орчим, Баян-Өндөр",
+  "pickupTitle": "Хаанаас суух вэ?",
+  "pickupConfirm": "Энд суух",
+  "dropoffTitle": "Хаашаа явах вэ?",
+  "dropoffConfirm": "Энд буух",
+  "moveMapHint": "Газрын зургийг хөдөлгөж зүүг байрлуулна уу.",
+  "popularPlaces": "Түгээмэл газрууд",
+  "restart": "Дахин эхлэх",
+  "flatFare": "Тогтмол үнэ",
+  "normalTaxi": "Энгийн такси",
+  "routeTaxiSoon": "Шугамын такси (удахгүй)",
+  "order": "Захиалах",
+  "moneyAmount": "{amount}₮",
+  "requestSent": "Захиалга илгээгдлээ: {price} (туршилт, сервер холбогдоогүй)",
+  "approximateDistance": "Ойролцоогоор {km} км",
+  "routeSummary": "{km} км · {minutes} мин",
+  "townFlatPrice": "Хот доторх тогтмол үнэ: {price}",
+  "yourOffer": "Таны санал: {price}",
+  "allowedPrice": "Зөвшөөрөгдөх үнэ: {min} – {max}",
+  "map2d": "2D",
+  "map3d": "3D",
+  "show2d": "Хоёр хэмжээст зураг харах",
+  "show3d": "Гурван хэмжээст зураг харах",
+  "locate": "Миний байршил",
+  "pickupPin": "Суух цэгийн зүү",
+  "dropoffPin": "Буух цэгийн зүү",
+  "mapLabel": "Газрын зураг",
+  "offerLabel": "Үнийн санал",
+  "@moneyAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "@requestSent": {
+    "placeholders": {
+      "price": {
+        "type": "String"
+      }
+    }
+  },
+  "@approximateDistance": {
+    "placeholders": {
+      "km": {
+        "type": "String"
+      }
+    }
+  },
+  "@routeSummary": {
+    "placeholders": {
+      "km": {
+        "type": "String"
+      },
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "@townFlatPrice": {
+    "placeholders": {
+      "price": {
+        "type": "String"
+      }
+    }
+  },
+  "@yourOffer": {
+    "placeholders": {
+      "price": {
+        "type": "String"
+      }
+    }
+  },
+  "@allowedPrice": {
+    "placeholders": {
+      "min": {
+        "type": "String"
+      },
+      "max": {
+        "type": "String"
+      }
+    }
+  },
+  "dumugMarketName": "Дөмөг хүнсний зах",
+  "dumugMarketArea": "Дөмөг захын орчим, Баян-Өндөр",
+  "tsagaanUrguuMarketName": "Цагаан Өргөө зах",
+  "tsagaanUrguuMarketArea": "Кувейтийн гудамжны орчим, Баян-Өндөр",
+  "generalHospitalReceptionName": "Нэгдсэн эмнэлэг (хүлээн авах)",
+  "generalHospitalReceptionArea": "Нэгдсэн эмнэлгийн орчим, Баян-Өндөр",
+  "medipasHospitalName": "Медипас эмнэлэг",
+  "medipasHospitalArea": "Уурхайчин хорооллын орчим, Баян-Өндөр",
+  "erdenetBusStationName": "Эрдэнэт автовокзал (Барилгачдын талбай)",
+  "erdenetBusStationArea": "Барилгачдын талбай, Баян-Өндөр",
+  "erdenetRailwayStationName": "Эрдэнэт төмөр замын вокзал",
+  "erdenetRailwayStationArea": "Төмөр замын өртөөний орчим, Баян-Өндөр",
+  "erdenetMiningOfficeName": "Эрдэнэт үйлдвэр (ерөнхий захиргаа)",
+  "erdenetMiningOfficeArea": "Найрамдлын талбай, Баян-Өндөр",
+  "nairamdalSquareName": "Найрамдлын талбай (Төв талбай)",
+  "nairamdalSquareArea": "Хотын төв, Баян-Өндөр",
+  "mustErdenetSchoolName": "ШУТИС — Эрдэнэт цогцолбор дээд сургууль",
+  "mustErdenetSchoolArea": "Отгонбилэгийн гудамжны орчим, Баян-Өндөр",
+  "numOrkhonSchoolName": "МУИС — Орхон сургууль",
+  "numOrkhonSchoolArea": "Их сургуулийн орчим, Баян-Өндөр",
+  "erdenetDepartmentStoreName": "Эрдэнэт их дэлгүүр",
+  "erdenetDepartmentStoreArea": "Кувейтийн гудамж, Баян-Өндөр",
+  "miniiSupermarketName": "Миний сүлжээ дэлгүүр",
+  "miniiSupermarketArea": "Оюутны гудамж, Баян-Өндөр"
+}
